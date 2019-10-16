@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>About.png</file>
+        <file>Clear.png</file>
+        <file>Impact.png</file>
+        <file>New.png</file>
+        <file>Open.png</file>
+        <file>Replace_mode.png</file>
+        <file>Reset.png</file>
+        <file>Save.png</file>
+        <file>Settings.png</file>
+        <file>Start.png</file>
+        <file>Step.png</file>
+        <file>Stop.png</file>
+        <file>XOR_mode.png</file>
+        <file>eliseev.jpg</file>
+    </qresource>
+</RCC>
